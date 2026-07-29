@@ -1,1 +1,1 @@
-# WEB-DEVELPMENT-TASK-1-BY-EliteTech-Intern
+# TASK-1-BY-EliteTech-Intern
